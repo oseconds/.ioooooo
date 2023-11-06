@@ -45,8 +45,8 @@ social:
     - https://www.instagram.com/secondary_production/
     # - https://www.linkedin.com/in/username
 
-google_site_verification: # fill in to your verification string
-woZnY-HFOrMCucu6lOCTMBpbCMg1pzibsV2y0SFMFQQ
+google_site_verification: woZnY-HFOrMCucu6lOCTMBpbCMg1pzibsV2y0SFMFQQ # fill in to your verification string
+
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
