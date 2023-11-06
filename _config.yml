@@ -71,7 +71,7 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-# img_cdn: "https://chirpy-img.netlify.app"
+img_cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
 avatar: "https://github.com/0seconds-ago/0seconds-ago.github.io/assets/123317581/c1c65b23-7931-4765-a380-d2a9f379fda1"
