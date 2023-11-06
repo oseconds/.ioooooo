@@ -19,7 +19,7 @@ title: 0seconds # the main title
 tagline: 오디오 비주얼 잡지식 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Generative Arts Other Knowledge
+  에이블톤, Max for live, Max MSP, 터치디자이너 잡지식
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -74,7 +74,7 @@ theme_mode: # [light|dark]
 img_cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://github.com/0seconds-ago/0seconds-ago.github.io/assets/123317581/c1c65b23-7931-4765-a380-d2a9f379fda1"
+avatar: "https://github.com/0seconds-ago/0seconds-ago.github.io/assets/123317581/6dee2490-5e95-4b96-b6cf-024c7c8ffee9"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
