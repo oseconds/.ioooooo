@@ -29,7 +29,7 @@ github:
   username: 0seconds-ago # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: twitter_0secondsontrip # change to your twitter username
 
 social:
   # Change to your full name.
@@ -38,6 +38,7 @@ social:
   email: 5dudtj@naver.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
+    - https://0seconds-ago.github.io/about/
     - https://twitter.com/0secondsontrip # change to your twitter homepage
     - https://github.com/0seconds-ago # change to your github homepage
     # Uncomment below to add more social links
@@ -70,10 +71,10 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: "https://chirpy-img.netlify.app"
+# img_cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/commons/avatar.jpg"
+avatar: "https://github.com/0seconds-ago/0seconds-ago.github.io/assets/123317581/c1c65b23-7931-4765-a380-d2a9f379fda1"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
