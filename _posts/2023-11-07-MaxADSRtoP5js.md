@@ -1,4 +1,3 @@
----
 title: Max-ADSR-Envelope-to-P5JS
 date: 2023-11-07 HH:MM:SS +/-09:00
 categories: [P5JS-IN-MAX], UTILLITY]
