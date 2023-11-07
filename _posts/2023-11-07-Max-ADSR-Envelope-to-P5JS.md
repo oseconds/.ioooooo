@@ -2,7 +2,7 @@
 title: Max-ADSR-Envelope-to-P5JS
 date: 2023-11-07 HH:MM:SS +/-09:00
 categories: [P5JS-IN-MAX], UTILLITY]
-tags: [p5jsinmax]
+tags: [p5jsinmax], p5.sound, adsr, envenlope, function
 ---
 
 ## P5JS에서 쉽게 ADSR을 컨트롤 하기  
