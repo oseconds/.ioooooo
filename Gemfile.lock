@@ -27,6 +27,7 @@ GEM
     ffi (1.16.3-x64-mingw-ucrt)
     forwardable-extended (2.6.0)
     google-protobuf (3.25.0-x64-mingw-ucrt)
+    google-protobuf (3.25.0-x86_64-darwin)
     google-protobuf (3.25.0-x86_64-linux)
     html-proofer (4.4.3)
       addressable (~> 2.3)
@@ -82,6 +83,8 @@ GEM
     mercenary (0.4.0)
     nokogiri (1.15.4-x64-mingw-ucrt)
       racc (~> 1.4)
+    nokogiri (1.15.4-x86_64-darwin)
+      racc (~> 1.4)
     nokogiri (1.15.4-x86_64-linux)
       racc (~> 1.4)
     parallel (1.23.0)
@@ -97,6 +100,8 @@ GEM
     rouge (4.2.0)
     safe_yaml (1.0.5)
     sass-embedded (1.69.5-x64-mingw-ucrt)
+      google-protobuf (~> 3.23)
+    sass-embedded (1.69.5-x86_64-darwin)
       google-protobuf (~> 3.23)
     sass-embedded (1.69.5-x86_64-linux-gnu)
       google-protobuf (~> 3.23)
@@ -116,6 +121,7 @@ GEM
 
 PLATFORMS
   x64-mingw-ucrt
+  x86_64-darwin-19
   x86_64-linux
 
 DEPENDENCIES
